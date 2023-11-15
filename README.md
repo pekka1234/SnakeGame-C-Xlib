@@ -1,4 +1,4 @@
-# SnakeGame-C-Xlib-
+# SnakeGame-C-Xlib
 Snake game written in c using xlib
 
 ![Screenshot from 2023-11-15 19-33-09](https://github.com/pekka1234/SnakeGame-C-Xlib/assets/62663286/6784c892-8ac4-4ae8-9898-bd6bc1923a41)
