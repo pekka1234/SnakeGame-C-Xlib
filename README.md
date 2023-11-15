@@ -5,7 +5,7 @@ Snake game written in c using xlib
 
 ## Running
 
-You need to have x11 display server. Probably version x116 is needed also.
+You need to have x11 display server. Probably version 6 is needed also.
 
 ### Compiling
 
